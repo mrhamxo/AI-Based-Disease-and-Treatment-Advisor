@@ -1,8 +1,6 @@
 # MediGuide: AI-Based Disease and Treatment Advisor  
 ### *Your AI Companion for Symptom Analysis and Personalized Care*
 
----
-
 ## **Project Overview**  
 MediGuide is an intelligent healthcare assistant designed to predict potential diseases based on user-entered symptoms. By leveraging advanced machine learning models, the app classifies diseases and provides detailed information, including:  
 - Disease Descriptions  
@@ -11,15 +9,11 @@ MediGuide is an intelligent healthcare assistant designed to predict potential d
 - Suggested Diet Plans  
 - Appropriate Workouts  
 
----
-
 ## **Objective**  
 The objective of MediGuide is to make healthcare insights more accessible and personalized by:  
 1. Predicting diseases based on user input.  
 2. Offering relevant and actionable advice to users.  
 3. Empowering users to take informed steps toward better health.  
-
----
 
 ## **Methodology/Methods**  
 MediGuide employs the following workflow:  
@@ -34,8 +28,6 @@ MediGuide employs the following workflow:
 - Scikit-learn (Machine Learning)  
 - Pandas & NumPy (Data Processing)  
 
----
-
 ## **User Interface Screenshot**  
 ![user interface 1](https://github.com/user-attachments/assets/df116d39-61f5-4211-b848-52b80f2a5ea2)
 ![disease](https://github.com/user-attachments/assets/73c62160-de5e-43dc-be3b-17e343d8488f)
@@ -45,15 +37,11 @@ MediGuide employs the following workflow:
 ![diets](https://github.com/user-attachments/assets/9a13e425-e8a9-401b-9218-c91e1a0f3ff2)
 ![workout](https://github.com/user-attachments/assets/c6845453-213b-42c4-b594-16487f0b112c)
 
----
-
 ## **Conclusion**  
 MediGuide bridges the gap between technology and healthcare by providing an accessible, user-friendly platform to analyze symptoms and offer tailored advice. With this app, users can make informed decisions about their health quickly and easily.  
-
----
 
 ## **Contact**  
 For inquiries or collaboration opportunities, please contact:  
 **Name**: Muhammad Hamza  
-**Email**: [your-email@example.com](mailto:mr.hamxa942@gmail.com)  
-**GitHub Profile**: [GitHub mrhamxo]([https://github.com/yourusername](https://github.com/mrhamxo))  
+**Email**: [Hamza](mailto:mr.hamxa942@gmail.com)  
+**GitHub Profile**: [mrhamxo]([https://github.com/yourusername](https://github.com/mrhamxo)
