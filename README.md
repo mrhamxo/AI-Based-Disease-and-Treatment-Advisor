@@ -1,5 +1,5 @@
 # MediGuide: AI-Based Disease and Treatment Advisor  
-### *Your AI Companion for Symptom Analysis and Personalized Care*
+### *Predict, Prevent, and Personalize Your Health Journey.*
 
 ## **Project Overview**  
 MediGuide is an intelligent healthcare assistant designed to predict potential diseases based on user-entered symptoms. By leveraging advanced machine learning models, the app classifies diseases and provides detailed information, including:  
@@ -44,4 +44,4 @@ MediGuide bridges the gap between technology and healthcare by providing an acce
 For inquiries or collaboration opportunities, please contact:  
 **Name**: Muhammad Hamza  
 **Email**: [Hamza](mailto:mr.hamxa942@gmail.com)  
-**GitHub Profile**: [mrhamxo]([https://github.com/yourusername](https://github.com/mrhamxo)
+**GitHub Profile**: [Hamza](https://github.com/mrhamxo)
