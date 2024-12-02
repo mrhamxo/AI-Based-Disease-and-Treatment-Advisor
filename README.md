@@ -1,6 +1,6 @@
 # MediGuide: AI-Based Disease and Treatment Advisor  
 
-**Live Demo:** [AI-Based Disease and Treatment Advisor](https://ai-based-disease-and-treatment-advisor.streamlit.app/)
+**Live Project:** [AI-Based Disease and Treatment Advisor](https://ai-based-disease-and-treatment-advisor.streamlit.app/)
 
 ## **Project Overview**  
 MediGuide is an intelligent healthcare assistant designed to predict potential diseases based on user-entered symptoms. By leveraging advanced machine learning models, the app classifies diseases and provides detailed information, including:  
